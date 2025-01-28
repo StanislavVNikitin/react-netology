@@ -1,5 +1,3 @@
-import React, {useState} from 'react';
-import moment from 'moment';
 import CalendarHeader from "./CalendarHeader";
 import WeekdayDateIndicator from "./WeekdayDateIndicator";
 

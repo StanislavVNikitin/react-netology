@@ -1,5 +1,6 @@
 import moment from 'moment';
-import 'moment/locale/ru';
+import 'moment/dist/locale/ru';
+moment.locale('ru');
 
 const getDaysInMonth = (month, year) => {
     return moment(`${month}-${year}`, 'MM-YYYY').daysInMonth();

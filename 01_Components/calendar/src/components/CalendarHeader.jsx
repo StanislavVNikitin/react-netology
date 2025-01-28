@@ -1,4 +1,3 @@
-import React from 'react';
 import {
     getDayOfMonth,
     getReadableMonth,

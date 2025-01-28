@@ -1,5 +1,3 @@
-import React, {useState} from 'react';
-import moment from 'moment'
 import './Calendar.css';
 
 import {getDatesInMonthDisplay} from "../utils/date-utils";
